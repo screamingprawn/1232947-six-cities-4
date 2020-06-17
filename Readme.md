@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [sartor1](https://up.htmlacademy.ru/react/4/user/1232947).
-* Наставник: `Неизвестно`.
+* Наставник: `Without mentor`.
 
 ---
 
